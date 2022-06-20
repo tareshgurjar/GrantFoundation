@@ -1,0 +1,420 @@
+body{
+    margin: 0px;
+    background-color:rgb(177, 212, 242);
+
+}
+h1{
+    font-size: 16px;
+    margin-block-start: 0px;
+    margin-block-end: 0px;
+}
+.facebook{
+    width: 10px;
+    height: 12px;
+    margin-left: 15px;
+    margin-right: 6px;
+}
+.twitter{
+    width: 13px;
+    height: 13px;
+    margin-left: 6px;
+    margin-right: 6px;
+}
+.google{
+    width: 13px;
+    height: 13px;
+    margin-left: 6px;
+    margin-right: 6px;
+}
+.circle{
+    width: 12px;	
+    height: 12px;
+    margin-left: 6px;
+    margin-right: 6px;
+}
+.wifi{
+    width: 11px;
+    height: 11px;
+    margin-left: 6px;
+    margin-right: 6px;
+}
+.linkdin{
+    width: 12px;
+    height: 12px;
+    margin-left: 6px;
+    margin-right: 6px;
+}
+.mail{
+    width: 12px;
+    height: 12px;
+    margin-left: 515px;
+    margin-right: 10px;
+}
+.phone{
+    width: 10px;
+    height: 10px;
+    margin-right: 8px;
+    margin-left: 20px;
+}
+.arrow{
+    width: 10px;
+    height: 10px;
+}
+.En{
+    margin-left: 20px;
+}
+.Follow{
+    margin-left: 120px;
+}
+.upper{
+    background-color: #23E6BD;
+    padding: 12px;
+
+}
+#img {
+    width: 60px;
+    margin-left: 130px;
+    margin-block-start: 20px;
+    height: 60px;
+}
+span#grant {
+    font-size: 35px;
+    margin-top: 10px;
+    position: absolute;
+    padding-left: 10px;
+    padding-top: 5px;
+    color: blue;
+}
+span#found {
+    font-size: 23px;
+    padding-left: 15px;
+    padding-right: 12px;
+    position: absolute;
+    padding-top: 48px;
+    color: deepskyblue;
+}
+pre#h2 {
+    display: inline;
+    margin-left: 250px;
+    position: absolute;
+    margin-top: 48px;
+    color: #000;
+}
+.donate{
+    position: absolute;
+    margin-left: 1120px;
+    background-color: rgb(235, 194, 194);
+    display: inline-block;
+    margin-top: 38px;
+    padding: 10px;
+}
+#backimg{
+    width: 1520px;
+    height: 581px;
+    margin-top: 33px;
+
+}
+#settings{
+    position: absolute;
+    height: 35px;
+    margin-top: 89px;
+}
+#left{
+    position: absolute;
+    margin-left: 4.2em;
+   
+    margin-block-start: 11em;
+    font-size: 2em;
+}
+#right{
+    position: absolute;
+    margin-left: 42.5em;
+   
+    margin-block-start: 11em;
+    font-size: 2em;
+}
+#dot{
+    width: 61px;
+    height: 38px;
+    position: absolute;
+    margin-left: 46em;
+    margin-top: 35em;
+}
+h1.content{
+    position: absolute;
+    margin-left: 13em;
+    margin-top: 6.3em;
+    font-size: 37px;
+    font-family: cursive;
+}
+h2.content{
+    position: absolute;
+
+    margin-left: 23em;
+    margin-top: 322px;
+    font-family: cursive;
+    font-size: 16px;
+}
+h3.content{
+    position: absolute;
+  
+    margin-left: 23em;
+    margin-top: 365px;
+    font-family: cursive;
+    font-size: 16px;
+}
+.donate_now{
+    display: inline-block;
+    border: 2px solid white;
+    background-color: red;
+    border-radius: 5px;
+    position: absolute;
+    margin-top: 25em;
+    margin-left: 26em;
+   
+    padding: 9px;
+    text-decoration: none;
+}
+.learn{
+    display: inline-block;
+    border: 2px solid white;
+    border-radius: 5px;
+    position: absolute;
+    margin-top: 25em;
+    margin-left: 34em;
+    background-color: red;
+    padding: 9px;
+    text-decoration: none;
+}
+
+
+header  div{
+  display:inline;
+}
+.logo{
+  float: left;
+}
+.button{
+  background-color: rgba(7, 141, 112, 0.638); /* Green */
+  border: none;
+  color: white;
+  padding: 5px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  
+}
+.events{
+  background-image: url(../image/bg.jpg);
+  margin-top: 50px;
+  color: white;
+  padding: 180px;
+}
+.column {
+  float: left;
+  width: 26%;
+  padding: 20px;
+  text-align: center;
+     
+}
+.row{
+  margin-left: 100px;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+  
+}
+.sponsor{
+    
+    width: 250%;
+    height: 270px;
+    margin-top: 250px;
+    margin-left: -636px;
+    background-color: cyan;
+    padding-top: 20px;
+}
+#head{
+    font-size:30px;
+}
+.s3{
+    font-size:25px;
+    display:inline-flex;
+    margin:0px 32px 0px 32px;
+}
+
+
+
+
+/* footer CSS*/
+.above{
+     
+    color: black;
+   
+  }
+  .About_us {
+    display: inline;
+    position: absolute;
+    font-size: 2em;
+    left: 3.5em;
+    top: 2171.77px;
+  }
+  .our_project {
+    display: inline;
+    position: absolute;
+    font-size: 2em;
+    left: 13.5em;
+    top: 2171.77px;
+  }
+  .Quick_link {
+    font-size: 2em;
+    position: absolute;
+    left: 25em;
+    top: 2171.77px;
+  }
+  .Newsletter {
+    position: absolute;
+    font-size: 2em;
+    left: 36em;
+    top: 2171.77px;
+  }
+  .ipsum {
+    position: absolute;
+    font-size: 12px;
+    margin-top: 0px;
+  right: 1144.8px;
+  margin-right: 0px;
+  left: 127px;
+  top: 2247.77px;
+  }
+  .ph_no {
+    position: absolute;
+    font-size: 18px;
+    left: 127px;
+  top: 2344.77px;
+  bottom: -1941.37px;
+  }
+  .e_mail {
+    position: absolute;
+    margin-left: 0px;
+  left: 127px;
+  top: 2380.77px;
+  }
+  
+  .address {
+    position: absolute;
+    left: 128px;
+  top: 2401.77px;
+  }
+  #water {
+    position: absolute;
+    left: 27em;
+  top: 2247.77px;
+  }
+  #education {
+    position: absolute;
+    left: 27em;
+  top: 2277.97px;
+  }
+  #treat {
+    position: absolute;
+    left: 27em;
+    top: 2307.97px;
+  }
+  #serve {
+    position: absolute;
+    left: 27em;
+    top: 2338.97px;
+  }
+  #cloth {
+    position: absolute;
+    left: 27em;
+    top: 2369.97px;
+  }
+  #selter {
+    position: absolute;
+    left: 27em;
+  top: 2401.97px;
+  }
+  #cause {
+    position: absolute;
+    left: 50em;
+    top: 2251.77px;
+  }
+  #pro {
+    position: absolute;
+    left: 50em;
+  top: 2279.97px;
+  }
+  #gallery {
+    position: absolute;
+    left: 50em;
+    top: 2307.97px;
+  }
+  #terms {
+    position: absolute;
+    left: 50em;
+  top: 2339.97px;
+  }
+  #legal {
+    position: absolute;
+    left: 50em;
+  top: 2371.97px;
+  }
+  #privacy {
+    position: absolute;
+    left: 50em;
+    top: 2403.97px;
+  }
+  #select {
+      top: 2247.77px;
+      left: 1152px;
+      right: 84px;
+      position: absolute;
+      font-size: 17px;
+  }
+  #input {
+    position: absolute;
+    padding: 5px;
+    width: 10em;
+    font-size: 18px;
+    left: 1153.67px;
+  top: 2321.77px;
+  }
+  #c {
+    width: 12px;
+    height: 12px;
+  }
+  #h {
+    width: 12px;
+    height: 12px;
+  }
+  .below{
+      background-color: black;
+      padding: 40px;
+      padding-top: 11px;
+      padding-bottom: 58px;
+  }    
+  #f1 {
+      color: white;
+      position: absolute;
+      font-size: 15px;
+      padding: 16px;
+      left: 112px;
+  
+  }
+  #i {
+    position: absolute;
+    padding: 12px;
+    left: 78em;
+  }
+  .below {
+      background-color: #191818;
+      padding: 40px;
+      padding-top: 11px;
+      padding-bottom: 58px;
+  }
